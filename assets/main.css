@@ -1,0 +1,105 @@
+.mr-6{
+    margin-right: 6px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.ml-44
+{
+    margin-left: 44px;
+}
+
+.mb-12
+{
+    margin-bottom: 12px;
+}
+
+.mb-24
+{
+    margin-bottom: 24px;
+}
+
+.mt-30{
+    margin-top: 30px;
+}
+
+.mt-90
+{
+    margin-top: 90px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.width-336
+{
+    min-width: 336px;
+    max-width: 336px;
+}
+
+.min-height-856
+{
+    min-height: 470px;
+}
+
+.text-decor-none
+{
+    text-decoration: none;
+}
+
+
+.app
+{
+    background-color: #f3f9ff;
+    /* height: 5000px; */
+    /* position: relative; */
+}
+
+.header
+{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.header .img-header
+{
+    width: 150px;
+    height: auto;
+}
+
+.header a
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+.body
+{
+    width: 100%;
+    /* height: 500px; */
+}
+
+.vd-body
+{
+    width: 100%;
+    height: auto;
+}
+
+.input
+{
+    min-width: 416px;
+}
+
+.send-btn
+{
+    background-color: #004390;
+    color: #fff;
+    width: 50px;
+    border-radius: 10px;
+    border: none;
+}
